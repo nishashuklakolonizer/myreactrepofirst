@@ -9,7 +9,7 @@ const About = ( ) => {
     return (
         <>
           <Navbar/>
-           <Common  name='Welcome to About Our Page' 
+           <Common  name='Welcome to About Kolentry Page' 
            imgsrc={web} 
            visit="/Contact"
            btname="Contact Now"
